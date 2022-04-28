@@ -2,4 +2,3 @@ pyzbar
 numpy
 pdf2image
 opencv-python
-cv2
