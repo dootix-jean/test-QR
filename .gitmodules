@@ -1,0 +1,4 @@
+[submodule "adhoc-dev/l10n-switzerland"]
+	path = adhoc-dev/l10n-switzerland
+	url = git@github.com:adhoc-dev/l10n-switzerland.git
+	branch = 14.0-mig-l10n_ch_qr_bill_scan
