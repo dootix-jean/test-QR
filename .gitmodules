@@ -2,3 +2,8 @@
 	path = adhoc-dev/l10n-switzerland
 	url = git@github.com:adhoc-dev/l10n-switzerland.git
 	branch = 14.0-mig-l10n_ch_qr_bill_scan
+
+[submodule "OCA/community-data-files"]
+	path = OCA/community-data-files
+	url = git@github.com:OCA/community-data-files.git
+	branch = 14.0
